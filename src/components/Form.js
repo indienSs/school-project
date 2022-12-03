@@ -8,7 +8,7 @@ export default function Form() {
 
     return(
         <form className="form">
-            <p>Найти ученика</p>
+            <p><b>Найти ученика</b></p>
             <input type="text" placeholder="Фамилия" />
             <input type="text" placeholder="Имя" />
             <input type="text" placeholder="Номер класса" />

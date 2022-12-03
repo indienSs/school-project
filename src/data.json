@@ -1,10 +1,10 @@
 [
     {
         "id" : 0,
-        "name" : "Vera",
-        "secondname" : "Andrianova",
-        "class" : 12,
-        "letter" : "z",
+        "name" : "TestUser",
+        "second-name" : "Test",
+        "class-number" : 0,
+        "letter" : "",
         "reasons" : [{}]
     }
 ]
